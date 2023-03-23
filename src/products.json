@@ -1,0 +1,113 @@
+[
+    {
+        "id" : 1,
+        "title" : "Jean Mila",
+        "category" : "Jeans",
+        "description" : "Jean tipo parachute con frunce en cintura y terminaciones.",
+        "precio" : 15.500,
+        "colores" : ["crema", "negro"],
+        "talles" : [34, 36, 38, 40, 42],
+        "img1" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/e165ba9a-2cb5-4a04-bb1b-3d3d21e7f5791-57ed59910af24148ea16763388547312-1024-1024.webp",
+        "img2" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/62d75ef3-4e80-493d-92d9-50ff6e43e1a71-ebe1d50ea7a4108c5216763388572810-1024-1024.webp",
+        "img3" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/3ed2134e-3c6f-447a-aab5-4775158d5ffd1-124b2807d699da54f716763388569509-1024-1024.webp",
+        "img4" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_22011-6aa3e3247c58d457e516763218566240-640-0.webp"
+    },
+
+    {
+        "id" : 2,
+        "title" : "Jean Hailey",
+        "category" : "Jeans",
+        "description" : "Jean wide leg cargo rigido con bolsillos. MOLDERIA GRANDE!",
+        "precio" : 16.500,
+        "colores" : ["crema", "negro", "celeste"],
+        "talles" : [34, 36, 38, 40, 42],
+        "img1" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_91821-429a63f5d50f9a6ed716755471015723-640-0.webp",
+        "img2" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_92351-c3194f011f6775a49f16755471016026-640-0.webp",
+        "img3" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_92311-553fffc4a5102c6db016755471014834-640-0.webp",
+        "img4" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_31491-060ccd06655817a39116763291489262-1024-1024.webp"
+    },
+
+    {
+        "id" : 3,
+        "title" : "Jean Olivia",
+        "category" : "Jeans",
+        "description" : "Jean rigido tipo cargo. Bolsillos falsos atras.",
+        "precio" : 11.500,
+        "colores" : ["tostado", "negro"],
+        "talles" : [36, 38, 40, 42, 44, 46],
+        "img1" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_27661-b5da35d9f0fa3a4ebe16763263949564-1024-1024.webp",
+        "img2" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_64061-f1877f36049aa3160e16763262469217-480-0.webp",
+        "img3" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_27951-f9ea1d067f248b5e7716763263943553-1024-1024.webp",
+        "img4" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_64171-ca2159f2b28dd2deb716763262468901-640-0.webp"
+    },
+
+    {
+        "id" : 4,
+        "title" : "Jean Frenkie",
+        "category" : "Jeans",
+        "description" : "Jean cargo con maxi bolsillo y detalle de cadenas.",
+        "precio" : 13.500,
+        "colores" : ["celeste", "crema"],
+        "talles" : [34, 36, 38, 40, 42, 44],
+        "img1" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_7600-11-1810403c51781df6c716739198924678-1024-1024.webp",
+        "img2" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_43711-f40328af95d682d6c716784781610524-1024-1024.webp",
+        "img3" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_76211-7736c278a83ed8de5316739198927715-1024-1024.webp",
+        "img4" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_43491-1d335436cb7b29036816784781608532-640-0.webp"
+    },
+
+    {
+        "id" : 5,
+        "title" : "Jean Megan",
+        "category" : "Jeans",
+        "description" : "Jean wide leg cargo rigido con bolsillos.",
+        "precio" : 16.500,
+        "colores" : ["negro"],
+        "talles" : [34, 36, 38, 40, 42],
+        "img1" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_158311-7740aef52c80ea9c6216763193310853-1024-1024.webp",
+        "img2" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_1635-211-55d2dd078e00f158fb16763193311541-1024-1024.webp",
+        "img3" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_164611-31a35df2828a63c38616763193314762-640-0.webp",
+        "img4" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_163211-8087f104a8f472818916763193314959-640-0.webp"
+    },
+
+    {
+        "id" : 6,
+        "title" : "Buzo West",
+        "category" : "Buzos",
+        "description" : "Buzo de algodon frizado cuello redondo con estampa atras.",
+        "precio" : 12.500,
+        "colores" : ["negro", "blanco", "fucsia"],
+        "talles" : ["unico"],
+        "img1" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_27601-d337c3c810883c563516795231018420-1024-1024.webp",
+        "img2" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_28471-077b51dd925293e01316795233211336-640-0.webp",
+        "img3" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_2807-11-bae8ac9b1d8a3478aa16795233208903-1024-1024.webp",
+        "img4" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_26581-4ca96f343924eaa3c116795214729589-1024-1024.webp"
+    },
+
+    {
+        "id" : 7,
+        "title" : "Buzo Scores",
+        "category" : "Buzos",
+        "description" : "Buzo de algodon FRIZADO con estampa por detras.",
+        "precio" : 11.500,
+        "colores" : ["negro", "violeta", "azul", "verde ingles"],
+        "talles" : ["unico"],
+        "img1" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_35861-d9a33da2bf7a7f265f16786437034085-1024-1024.webp",
+        "img2" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_48481-bcdd68b2a406d363c916795251439014-1024-1024.webp",
+        "img3" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_50801-4c208a4b35c1d5258716795254055455-1024-1024.webp",
+        "img4" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_35291-428b5b534cf84573d016786438029416-640-0.webp"
+    },
+
+    {
+        "id" : 8,
+        "title" : "Buzo Fast Fashion",
+        "category" : "Buzos",
+        "description" : "Buzo de algodon FRIZADO con estampa por detras.",
+        "precio" : 11.500,
+        "colores" : ["blanco", "marron", "negro"],
+        "talles" : ["unico"],
+        "img1" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_38031-4bc45e109923a15adc16786429020799-1024-1024.webp",
+        "img2" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_38261-274f911caa35be5f5c16786425531083-1024-1024.webp",
+        "img3" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_39571-fc9cdbaadd0d1fc32e16786422637789-1024-1024.webp",
+        "img4" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/126/411/products/img_40121-2ba1d2bef48efafb2516786421860605-1024-1024.webp"
+    }
+]
