@@ -10,15 +10,19 @@
 }
 
 .container p{
-    font-size: 20px;
+    text-align: center;
+    font-size: 26px;
     color: #0e0c0b;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .container span{
-    font-size: 20px;
+    text-align: center;
+    font-size: 26px;
     color: antiquewhite;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .listaNav{
@@ -30,15 +34,23 @@
 }
 
 .listaNav li{
+    text-align: center;
     list-style: none;
-    color: #0e0c0b;
+    color: #fff;
     font-size: 18px;
-    font-weight: 500;
+    font-weight: bold;
+    cursor: pointer;
 }
 
 .carritoDiv{
     display: flex;
     justify-content: space-between;
-    color: #0e0c0b;
+    color: #fff;
     align-items: center;
+    cursor: pointer;
+}
+
+.carritoDiv .pCarrito{
+    font-size: 15px;
+    color: #fff;
 }

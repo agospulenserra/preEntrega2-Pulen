@@ -1,21 +1,19 @@
 import { Link } from 'react-router-dom';
-import styles from './cardHome.module.css'
+import styles from './cardHome.module.css';
 
-const CardHome = ({product}) => {
+function CardHome({product}) {
   return (
     <Link to={`${product.id}`}>
-      <div className={styles.container}>
-        <h3>{product.title}</h3>
-        <img
-          src={product.image}
-          alt={product.title}
-          width="200"
-          height="250"
-        />
-        <p>$ {product.price}</p>
+      <div className={styles.card}>
+        <div className={styles.cardBody}>
+          <img className={styles.cardImg} src={product.img1} alt="imagen principal" />
+          <h2 className={styles.cardTitle}>{product.title}</h2>
+          <p className={styles.cardPrice}>${product.precio}</p>
+        </div>
+        <button className={styles.cardBtn}>Ver producto</button>
       </div>
     </Link>
-  )
+  );
 }
 
-export default CardHome
+export default CardHome;
