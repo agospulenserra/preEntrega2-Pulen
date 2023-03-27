@@ -1,10 +1,11 @@
+import { Link } from 'react-router-dom';
 import styles from './footer.module.css';
 
 const Footer = () => {
   return (
     <div className={styles.footerContainer}>
         <ul className={styles.ulFooter}>
-            <li>Productos</li>
+            <li><Link className={styles.link} to='/products'>Productos</Link></li>
             <li>Contacto</li>
             <li>Sobre nosotros</li>
         </ul>

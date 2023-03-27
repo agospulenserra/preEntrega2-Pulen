@@ -30,7 +30,7 @@
     justify-content: space-between;
     color: white;
     align-items: center;
-    width: 20%;
+    width: 40%;
 }
 
 .listaNav li{
@@ -40,6 +40,12 @@
     font-size: 18px;
     font-weight: bold;
     cursor: pointer;
+    transition: color 200ms ease-in;
+}
+
+.listaNav li:hover{
+    color: #571f01;
+    transform: scale(1.1);
 }
 
 .carritoDiv{
@@ -53,4 +59,13 @@
 .carritoDiv .pCarrito{
     font-size: 15px;
     color: #fff;
+}
+
+.link{
+    text-decoration: none;
+    color: #fff;
+}
+
+.link:hover{
+    color: #571f01;
 }

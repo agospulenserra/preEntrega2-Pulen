@@ -3,7 +3,7 @@ import styles from './cardHome.module.css';
 
 function CardHome({product}) {
   return (
-    <Link to={`${product.id}`}>
+    <Link className={styles.link} to={`/item/${product.id}`}>
       <div className={styles.card}>
         <div className={styles.cardBody}>
           <img className={styles.cardImg} src={product.img1} alt="imagen principal" />
